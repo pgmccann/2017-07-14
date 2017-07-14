@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "St Andrews Example for Instructor Training"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: pgm5@st-andrews.ac.uk
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+repository: pgmccann/2017-07-14-st-andrews
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
